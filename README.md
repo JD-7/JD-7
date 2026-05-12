@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jaydeep</h1>
-<h3 align="center">I'm a student who's seeking for knowledge and fun.</h3>
+<h3 align="center">A random guy who's seeking knowledge and fun.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jd-7&label=Profile%20views&color=0e75b6&style=flat" alt="jd-7" /> </p>
 
-- 🌱 I’m currently learning **Python, Java, C++**
+- 🌱 I’m currently learning ** experienced in Flutter, React, TypeScript, Python, Java, & C++**
 
 - 💬 Ask me about **Football, Gaming**
 
 - 📫 How to reach me **payyaljaydeep@gmail.com**
 
-- ⚡ Fun fact **I like to get myself involved in almost everything.**
+- ⚡ Fun fact **I carry a big bag of random information with me which I would love to share with you.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
