@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jd-7&label=Profile%20views&color=0e75b6&style=flat" alt="jd-7" /> </p>
 
-- 🌱 I’m currently learning **experienced in Flutter, React, TypeScript, Python, Java, & C++**
+- 🌱 I’m currently experienced in **Flutter, React, TypeScript, Python, Java, & C++**
 
 - 💬 Ask me about **Football, Gaming**
 
